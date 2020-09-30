@@ -1,0 +1,2 @@
+POSTGRES_PASSWORD=Welcome
+POSTGRES_DB=conference_app
