@@ -1,4 +1,4 @@
-package com.example.conference_app_v2;
+package com.example.conference_app_jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

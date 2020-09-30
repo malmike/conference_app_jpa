@@ -1,4 +1,4 @@
-package com.example.conference_app_v2;
+package com.example.conference_app_jpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
