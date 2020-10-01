@@ -18,12 +18,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 public class TicketTypeTest {
-    // @Autowired
-    // private TicketTypeJpaRepository ticketTypeJpaRepository;
-
-    // @Autowired
-    // private PricingCategoryJpaRepository pricingCategoryJpaRepository;
-
     @Autowired
     private TicketTypeJpaRepository ticketTypeJpaRepository;
 
